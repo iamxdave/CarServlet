@@ -1,0 +1,19 @@
+table {
+    border: 1px solid black;
+    text-align: center;
+    width: 50%;
+}
+td {
+    border: 1px solid darkred;
+}
+th {
+    border: 1px solid darkred;
+    background-color: darkred;
+    color: white;
+}
+
+#submit {
+    padding: 5px;
+    background-color: darkred;
+    color: white;
+}

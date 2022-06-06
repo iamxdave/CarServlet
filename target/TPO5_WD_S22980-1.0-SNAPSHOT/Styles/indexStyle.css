@@ -1,0 +1,14 @@
+h1 {
+    font-family: "Comic Sans MS", emoji;
+}
+form {
+    font-family: "Comic Sans MS", emoji;
+    font-size: 18px;
+}
+input {
+    padding: 10px;
+}
+#submit {
+    background-color: darkred;
+    color: white;
+}
